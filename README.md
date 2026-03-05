@@ -1,10 +1,21 @@
+<div align="center">
+
+<img src="assets/banner.png" alt="Gingiris" width="400" />
+
 # 📈 B2B SaaS Growth Playbook
 
-> **The complete guide to B2B product growth** — From PMF validation to ecosystem-scale growth, with real playbooks from HeyGen, Deel, Vercel, Supabase, and AWS.
+### The complete guide to B2B product growth
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
+[![ClawdHub](https://img.shields.io/badge/ClawdHub-Install-purple)](https://clawdhub.com/skills/gingiris-b2b-growth)
 [![Languages](https://img.shields.io/badge/Languages-4-green)](#-multilingual-support)
+
+**[English](references/en/README.md) | [中文](SKILL.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+
+</div>
+
+---
 
 ## What is this?
 
@@ -18,6 +29,30 @@ This is a **comprehensive B2B SaaS growth playbook** covering the entire product
 - 📝 Contract templates (SOR, SOW, MSA, PCR, quotes)
 - 📊 North Star metrics & AARRR framework
 
+---
+
+## ⭐ Star the Repository
+
+<div align="center">
+
+If you find this playbook useful, please give us a star! ⭐
+
+<img src="assets/star.gif" alt="Star this repo" width="400" />
+
+</div>
+
+---
+
+## 📦 Installation
+
+```bash
+# Via ClawdHub (recommended)
+clawdhub install gingiris-b2b-growth
+
+# Or clone directly
+git clone https://github.com/Gingiris/gingiris-b2b-growth.git ~/.openclaw/skills/gingiris-b2b-growth
+```
+
 ## 🌍 Multilingual Support
 
 | Language | Entry Point |
@@ -26,13 +61,6 @@ This is a **comprehensive B2B SaaS growth playbook** covering the entire product
 | 🇺🇸 English | [references/en/README.md](references/en/README.md) |
 | 🇯🇵 日本語 | [references/ja/README.md](references/ja/README.md) |
 | 🇰🇷 한국어 | [references/ko/README.md](references/ko/README.md) |
-
-## 📦 Installation
-
-```bash
-# Clone to OpenClaw skills directory
-git clone https://github.com/Gingiris/gingiris-b2b-growth.git ~/.openclaw/skills/gingiris-b2b-growth
-```
 
 ## 📚 Contents
 
