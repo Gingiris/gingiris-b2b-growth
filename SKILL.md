@@ -14,7 +14,7 @@ description: |
 
 # AI 全球 2B 产品全生命周期增长指南
 
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](references/en/README.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)
+> 🌍 **Language / 语言**: [中文](#中文版) | [English](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/README.md) | [日本語](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ko/README.md)
 
 ---
 
