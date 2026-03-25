@@ -166,6 +166,14 @@ Real case studies from top B2B SaaS companies, distilled into actionable strateg
 
 ---
 
+---
+
+## 📚 Get the Complete Playbook
+
+Want all four playbooks in one comprehensive package? Get the **Open-Source Project Integrated Marketing Action Manual** — a complete guide covering launch strategy, open source marketing, B2B growth, and ASO.
+
+[![Get the Playbook](https://img.shields.io/badge/Get_the_Playbook-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://gingiris.gumroad.com/l/vhmkew)
+
 ## About the Author
 
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE ($10M raised), led B2B growth from 0 to global scale.
