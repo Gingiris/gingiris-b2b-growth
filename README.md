@@ -28,6 +28,18 @@
 
 ---
 
+> 🌱 **Our Philosophy**
+> 
+> *"创业没有那么高大上，创业就是做生意。"* — Startups aren't glamorous; they're just business.
+> 
+> *"不要让你的 ego 大过你的用户。"* — Don't let your ego overshadow your users.
+> 
+> *"从 Day 0 就要勇敢收费。"* — Be brave enough to charge from Day 0.
+> 
+> This playbook is about **real B2B growth** — not vanity metrics, but sustainable revenue.
+
+---
+
 > 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
 
 ---
@@ -63,6 +75,17 @@ Real case studies from top B2B SaaS companies, distilled into actionable strateg
 | **Vercel** | "The Frontend Cloud" — category creation masterclass |
 | **Supabase** | "Build in a weekend, scale to millions" |
 | **AWS** | Partner ecosystem best practices |
+
+### 🤝 Community Success Stories
+
+Real results from founders using this playbook:
+
+| Company | Result | Story |
+|---------|--------|-------|
+| *Your company here* | — | [Share yours →](https://github.com/Gingiris/gingiris-b2b-growth/issues/new?labels=success-story\&title=🎉+Success+Story:+[Your+Company]) |
+
+> 📢 **Scaled your B2B SaaS with this playbook?** We'd love to feature your story! [Submit your case study](https://github.com/Gingiris/gingiris-b2b-growth/issues/new?labels=success-story\&title=🎉+Success+Story:+[Your+Company])
+
 
 ---
 
