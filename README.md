@@ -7,7 +7,13 @@
 ### Full-lifecycle growth strategies — PMF validation, PLG/SLG, affiliate marketing, channel partnerships
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/watchers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/badge/Website-gingiris.com-blue)](https://www.gingiris.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-b2b-growth/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/Gingiris/gingiris-b2b-growth?color=blue)](https://github.com/Gingiris/gingiris-b2b-growth/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Gingiris/gingiris-b2b-growth?color=orange)](https://github.com/Gingiris/gingiris-b2b-growth/graphs/contributors)
 
 **[English](#english) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
 
@@ -19,9 +25,61 @@
 >
 > Or visit **[gingiris.com](https://gingiris.com/en)** — Iris's consulting practice with 1:1 sessions, startup coaching, and enterprise retainer options.
 
+> 💡 **Why Star this?** 
+> *   **Battle-Tested**: Documents the exact strategies used for **30x PH #1** and **60k Stars**.
+> *   **AI-Native**: Battle-tested AI Agent Skills to automate your next 10k stars.
+> *   **PH Strategy**: Access the playbook that earned 30x Product Hunt #1.
+
+---
+
+> 🌱 **Our Philosophy**
+> 
+> *"创业没有那么高大上，创业就是做生意。"* — Startups aren't glamorous; they're just business.
+> 
+> *"不要让你的 ego 大过你的用户。"* — Don't let your ego overshadow your users.
+> 
+> *"从 Day 0 就要勇敢收费。"* — Be brave enough to charge from Day 0.
+> 
+> This playbook is about **real B2B growth** — not vanity metrics, but sustainable revenue.
+
+---
+
+> 💼 **Work With Iris**
+>
+> **1. Strategic Consultation (1v1)**
+> | Session | Price | Best For |
+> |:--------|:------|:---------|
+> | Quick Call (30 min) | $150 USD | Specific questions, quick diagnosis |
+> | Deep Dive (60 min) | $300 USD | Full strategy review, detailed roadmap |
+>
+> **2. Advisory Retainer**
+> | Plan | Price | Includes |
+> |:-----|:------|:---------|
+> | Monthly Retainer | $1,500 USD/mo | Up to 5 hours strategic consultation + key milestone reviews |
+>
+> **3. Playbooks & Templates**
+> | Package | Price | Contents |
+> |:--------|:------|:---------|
+> | Starter Pack | $29 USD | Core methodology + essential tools |
+> | Flagship Bundle | $199 USD | Complete SOP, competitor research framework, templates |
+>
+> 📩 [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot) — Crypto/USDT and Wire Transfer accepted
+
 ---
 
 ## ⭐ Star This Repo
+
+## 🦞 Use with AI Agents
+
+This playbook is available as a **ClawdHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
+
+```bash
+clawhub install gingiris-b2b-growth
+```
+
+> Your AI agent can then help you build PLG/SLG strategies, analyze competitors, and plan your go-to-market.
+
+---
 
 <img width="100%" src="assets/star.png" alt="Star this repo" />
 
@@ -40,6 +98,17 @@ Real case studies from top B2B SaaS companies, distilled into actionable strateg
 | **Vercel** | "The Frontend Cloud" — category creation masterclass |
 | **Supabase** | "Build in a weekend, scale to millions" |
 | **AWS** | Partner ecosystem best practices |
+
+### 🤝 Community Success Stories
+
+Real results from founders using this playbook:
+
+| Company | Result | Story |
+|---------|--------|-------|
+| *Your company here* | — | [Share yours →](https://github.com/Gingiris/gingiris-b2b-growth/issues/new?labels=success-story\&title=🎉+Success+Story:+[Your+Company]) |
+
+> 📢 **Scaled your B2B SaaS with this playbook?** We'd love to feature your story! [Submit your case study](https://github.com/Gingiris/gingiris-b2b-growth/issues/new?labels=success-story\&title=🎉+Success+Story:+[Your+Company])
+
 
 ---
 
@@ -143,14 +212,23 @@ Real case studies from top B2B SaaS companies, distilled into actionable strateg
 
 ---
 
+---
+
+## 📚 Get the Complete Playbook
+
+Want all four playbooks in one comprehensive package? Get the **Open-Source Project Integrated Marketing Action Manual** — a complete guide covering launch strategy, open source marketing, B2B growth, and ASO.
+
+[![Get the Playbook](https://img.shields.io/badge/Get_the_Playbook-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://gingiris.gumroad.com/l/vhmkew)
+
 ## About the Author
 
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE ($10M raised), led B2B growth from 0 to global scale.
 
-- 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 🐦 Twitter: [@WeiYipei](https://x.com/WeiYipei)
 - 💼 LinkedIn: [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/)
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📧 Email: iris103195@gmail.com
+- 📱 即刻: 生姜iris
+- 📧 公众号: 云宝的桃花坞
 
 ---
 
