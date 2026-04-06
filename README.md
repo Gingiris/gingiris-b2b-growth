@@ -235,3 +235,12 @@ Want all four playbooks in one comprehensive package? Get the **Open-Source Proj
 ## License
 
 MIT License - Use and adapt for your own B2B growth!
+
+## 📖 Full Guides & Blog Posts
+
+- [SaaS Growth Strategy: 0 to $10M ARR Framework](https://gingiris.github.io/growth-tools/blog/2026/03/27/saas-gotomarket-strategy-the-complete-framework-from-0-to-10m-arr/)
+- [B2B SaaS Growth Playbook](https://gingiris.github.io/growth-tools/blog/2026/04/05/b2b-saas-growth-playbook-proven-strategies-2026/)
+- [Go-to-Market Strategy: The Complete 2026 Playbook](https://gingiris.github.io/growth-tools/blog/2026/04/03/go-to-market-strategy-the-complete-2026-playbook-for-startups/)
+- [How to Find Beta Users for Your SaaS](https://gingiris.github.io/growth-tools/blog/2026/04/03/how-to-find-beta-users-for-your-saas/)
+- [KOL Marketing Strategy: Find and Work with Influencers](https://gingiris.github.io/growth-tools/blog/2026/04/02/kol-marketing-strategy/)
+
