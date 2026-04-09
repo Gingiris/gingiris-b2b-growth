@@ -4,7 +4,7 @@
 
 # B2B SaaS Growth Playbook
 
-### Full-lifecycle growth strategies — PMF validation, PLG/SLG, affiliate marketing, channel partnerships
+### The complete B2B SaaS growth strategy & go to market strategy guide — PMF validation, PLG/SLG, affiliate marketing, channel partnerships
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/network/members)
