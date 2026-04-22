@@ -1,7 +1,7 @@
 ---
 name: gingiris-b2b-growth
 description: |
-  🇺🇸 B2B SaaS Full-Lifecycle Growth Playbook — From PMF validation to ecosystem growth. Real cases from HeyGen, Deel, Vercel, Supabase, AWS. PLG/SLG strategies, affiliate marketing, channel partnerships.
+  🇺🇸 B2B SaaS Growth Playbook — PLG & SLG from PMF to $10M ARR. Real case studies: HeyGen, Deel, Vercel, Supabase, AWS. Product-led onboarding, self-serve funnel, freemium conversion, affiliate program, channel partnerships, enterprise sales motion, customer expansion, SaaS pricing strategy.
   
   🇨🇳 AI 全球 B2B 产品增长指南 — 从 PMF 验证到生态化增长的完整操作手册。整合 HeyGen、Deel、Vercel、Supabase、AWS 等标杆案例。PLG/SLG 策略、联盟营销、渠道合作。
   
@@ -9,7 +9,7 @@ description: |
   
   🇰🇷 B2B SaaS 성장 플레이북 — PMF 검증부터 생태계 성장까지. HeyGen, Deel, Vercel, Supabase, AWS 실제 사례. PLG/SLG 전략, 제휴 마케팅, 채널 파트너십.
   
-  Triggers: "B2B growth" | "PMF" | "product-market fit" | "PLG" | "SLG" | "affiliate marketing" | "channel partners" | "customer case study" | "B2B 增长" | "用户调研"
+  Triggers: "B2B growth" | "B2B SaaS" | "PMF" | "product-market fit" | "PLG" | "product-led growth" | "SLG" | "sales-led growth" | "self-serve onboarding" | "freemium" | "SaaS pricing" | "affiliate marketing" | "channel partners" | "enterprise sales" | "customer expansion" | "ARR growth" | "customer case study" | "B2B 增长" | "用户调研" | "SaaS 增长"
 ---
 
 # AI 全球 2B 产品全生命周期增长指南
