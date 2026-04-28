@@ -67,8 +67,6 @@
 
 ---
 
-## ⭐ Star This Repo
-
 ## 🦞 Use with AI Agents
 
 This playbook is available as a **ClawHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
@@ -144,6 +142,8 @@ Real results from founders using this playbook:
      └─────────────┘
 ```
 
+_Read top-down: the PLG product kernel earns community, community feeds channels, channels hand qualified demand to sales — each layer reinforces the one above._
+
 ### Detailed Guides (English)
 
 | Topic | File |
@@ -179,6 +179,8 @@ Real results from founders using this playbook:
      │  直销转化   │ ← SLG 变现
      └─────────────┘
 ```
+
+_自上而下读：PLG 产品内核带动社区，社区喂养渠道，渠道把高意向需求交给直销——每一层反哺上一层。_
 
 ### 详细指南（中文）
 
